@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "Raman ",
+      "email": "ramanrsm1234@example.com"
+    },
+    {
+      "id": 2,
+      "stuname": "Rakesh K",
+      "email": "rakeshrsm123@example.com"
+    },
+    {
+      "id": 3,
+      "stuname": "Rahul Kumar",
+      "email": "rahulram123@example.com"
+    },
+    {
+      "stuname": "Rohit",
+      "email": "rohitrsm123@gmail.com",
+      "id": 5
+    },
+    {
+      "stuname": "Rohan",
+      "email": "rohanrsm123@gmail.com",
+      "id": 6
+    },
+    {
+      "stuname": "Ram",
+      "email": "ramrsm123@example.com",
+      "id": 7
+    },
+    {
+      "stuname": "Rohan K",
+      "email": "rohan123@example.com",
+      "id": 8
+    },
+    {
+      "stuname": "Rushali",
+      "email": "rushali@example.com",
+      "id": 9
+    }
+  ]
+}
